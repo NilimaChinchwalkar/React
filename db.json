@@ -1,0 +1,104 @@
+{
+    "recipes": [
+      {
+        "id": 1,
+        "title": "Aloo Paratha",
+        "category": "Breakfast",
+        "prepTime": "30 minutes",
+        "ingredients": [
+          "2 cups whole wheat flour",
+          "3 boiled potatoes",
+          "1 onion (finely chopped)",
+          "2 green chilies (chopped)",
+          "1 tsp garam masala",
+          "Salt to taste",
+          "Chopped coriander",
+          "Ghee or oil for roasting"
+        ],
+        "steps": [
+          "Boil and mash potatoes.",
+          "Mix mashed potatoes with chopped onions, green chilies, coriander, and spices.",
+          "Knead flour into soft dough and rest it.",
+          "Roll dough, stuff with filling, seal and flatten.",
+          "Roast both sides on hot tawa with ghee until golden brown."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/06/aloo-paratha-recipe.jpg"
+      },
+      {
+        "id": 2,
+        "title": "Masala Maggi",
+        "category": "Snack",
+        "prepTime": "10 minutes",
+        "ingredients": [
+          "1 pack Maggi noodles",
+          "1 small onion (chopped)",
+          "1 tomato (chopped)",
+          "1 green chili",
+          "1/4 tsp turmeric",
+          "1/4 tsp red chili powder",
+          "1 tbsp oil",
+          "1 1/2 cups water"
+        ],
+        "steps": [
+          "Sauté onion, tomato, and green chili in oil.",
+          "Add turmeric, chili powder, and tastemaker.",
+          "Add water and bring to boil.",
+          "Add noodles and cook until done.",
+          "Garnish with coriander and serve hot."
+        ],
+        "image": "https://www.vegrecipesofindia.com/wp-content/uploads/2021/07/maggi-noodles-recipe-1.jpg"
+      },
+      {
+        "id": 3,
+        "title": "Paneer Butter Masala",
+        "category": "Lunch",
+        "prepTime": "40 minutes",
+        "ingredients": [
+          "200g paneer cubes",
+          "2 onions",
+          "2 tomatoes",
+          "1 tbsp ginger-garlic paste",
+          "2 tbsp butter",
+          "1/4 cup cream",
+          "10 cashews",
+          "1 tsp garam masala",
+          "1 tsp red chili powder",
+          "Salt to taste"
+        ],
+        "steps": [
+          "Sauté onion, tomato, garlic, and cashews.",
+          "Blend into a smooth paste.",
+          "Cook paste in butter with spices.",
+          "Add paneer and cream, simmer for 10 mins.",
+          "Serve hot with naan or rice."
+        ],
+        "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2021/04/paneer-butter-masala.jpg"
+      },
+      {
+        "id": 4,
+        "title": "Vegetable Pulao",
+        "category": "Dinner",
+        "prepTime": "30 minutes",
+        "ingredients": [
+          "1 cup basmati rice",
+          "1 cup mixed vegetables (carrot, peas, beans)",
+          "1 onion (sliced)",
+          "1 bay leaf",
+          "2 cloves",
+          "1-inch cinnamon",
+          "2 tbsp oil or ghee",
+          "2 cups water",
+          "Salt to taste"
+        ],
+        "steps": [
+          "Soak and drain rice.",
+          "Sauté spices, onion, and vegetables.",
+          "Add rice, water, and salt.",
+          "Cook covered until rice is done.",
+          "Fluff rice and serve with raita."
+        ],
+        "image": "https://www.cookwithmanali.com/wp-content/uploads/2021/09/Instant-Pot-Vegetable-Pulao.jpg"
+      }
+    ]
+  }
+  
